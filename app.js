@@ -61,5 +61,5 @@ app.get('/',(req,res)=>{
 
 +
 app.listen(process.env.PORT|3000,()=>{
-    console.log("Server is up and It's running");
+    console.log("Server is up ! It's running");
 })
